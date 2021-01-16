@@ -17,5 +17,7 @@ If someone else made changes to the main branch while you were working on your b
 In GitHub,  developers, writers, and designers use branches for keeping bug fixes and feature work separate from our main (production) branch. 
 When a change is ready, they merge their branch into main.
 
+To make a new branch, click on the name of the file, in the box type the name of your branch and press enter. 
+
 # Make changes to a file and push them to GitHub as commits
 # Open and merge a pull request
